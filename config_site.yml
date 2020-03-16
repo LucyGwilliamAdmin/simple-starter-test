@@ -6,7 +6,7 @@ remote_theme: open-sdg/open-sdg@master
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-simple-starter"
+baseurl: "/simple-starter-test"
 environment: staging
 source: www
 local_data_folder: _build
@@ -16,9 +16,9 @@ languages:
   - en
 
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#my-org/my-repo/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#lucygwilliamadmin/simple-starter-test/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#my-org/my-repo/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#lucygwilliamadmin/simplestartertest/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
@@ -43,8 +43,8 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Simple starter prod test
+  adjective: Simple starter prod test
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
